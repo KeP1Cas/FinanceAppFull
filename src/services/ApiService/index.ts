@@ -8,7 +8,7 @@ import { IDataModel } from "stores/OperationsStore";
 
 const fetchClient = () => {
   const defaultOptions = {
-    baseURL: "http://localhost:5000/api/",
+    baseURL: "https://finance-backend.onrender.com/api/",
   };
 
   // Create instance
