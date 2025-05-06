@@ -1,0 +1,15 @@
+@import "~reset-css";
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+:root {
+  --background-color: #f5f8ff;
+  --color: #435379;
+}
+
+body {
+  padding: 0 calc(20px - (100vw - 100%)) 0 0;
+  font-family: "Roboto", sans-serif;
+  background-color: var(--background-color);
+  color: var(--color);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}

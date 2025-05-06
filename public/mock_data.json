@@ -1,0 +1,162 @@
+[
+  {
+    "_id": "1",
+    "date": "09/09/2021 02:36 PM",
+    "category": "Food",
+    "type": "Expenses",
+    "quantity": 10,
+    "description": "I bought products for my family"
+  },
+  {
+    "_id": "2",
+    "date": "11/05/2021 09:36 AM",
+    "category": "Salary",
+    "type": "Income",
+    "quantity": 750,
+    "description": "My first salary"
+  },
+  {
+    "_id": "3",
+    "date": "10/09/2021 03:47 PM",
+    "category": "Sell",
+    "type": "Income",
+    "quantity": 55,
+    "description": "I sold my school books"
+  },
+  {
+    "_id": "4",
+    "date": "02/07/2021 03:47 PM",
+    "category": "Home service",
+    "type": "Expenses",
+    "quantity": 74,
+    "description": "I hired cleaning company"
+  },
+  {
+    "_id": "5",
+    "date": "08/06/2021 06:26 AM",
+    "category": "Transport",
+    "type": "Expenses",
+    "quantity": 9,
+    "description": "Use taxi"
+  },
+  {
+    "_id": "6",
+    "date": "07/07/2021 11:47 AM",
+    "category": "Salary",
+    "type": "Income",
+    "quantity": 82,
+    "description": "I got money for good work"
+  },
+  {
+    "_id": "7",
+    "date": "07/06/2021 10:00 PM",
+    "category": "Clothes",
+    "type": "Expenses",
+    "quantity": 31,
+    "description": "I bought winter clothes"
+  },
+  {
+    "_id": "8",
+    "date": "09/06/2021 05:36 AM",
+    "category": "Restaurants",
+    "type": "Expenses",
+    "quantity": 82,
+    "description": "Spend time with my family in restaurant"
+  },
+  {
+    "_id": "9",
+    "date": "05/06/2021 07:53 AM",
+    "category": "Data",
+    "type": "Expenses",
+    "quantity": 35,
+    "description": "Mobile data"
+  },
+  {
+    "_id": "10",
+    "date": "08/05/2021 09:36 AM",
+    "category": "Health",
+    "type": "Expenses",
+    "quantity": 18,
+    "description": "I bought some medicine"
+  },
+  {
+    "_id": "11",
+    "date": "08/08/2021 06:26 AM",
+    "category": "Transport",
+    "type": "Expenses",
+    "quantity": 9,
+    "description": "Use car sharing"
+  },
+  {
+    "_id": "12",
+    "date": "05/05/2021 11:47 AM",
+    "category": "Salary",
+    "type": "Income",
+    "quantity": 82,
+    "description": "I got money for good work"
+  },
+  {
+    "_id": "13",
+    "date": "07/09/2021 10:00 PM",
+    "category": "Clothes",
+    "type": "Expenses",
+    "quantity": 31,
+    "description": "I bought spring clothes"
+  },
+  {
+    "_id": "14",
+    "date": "07/07/2021 05:36 AM",
+    "category": "Restaurants",
+    "type": "Expenses",
+    "quantity": 82,
+    "description": "Spend time with my colleagues"
+  },
+  {
+    "_id": "15",
+    "date": "09/12/2021 07:53 AM",
+    "category": "TV",
+    "type": "Expenses",
+    "quantity": 25,
+    "description": "TV"
+  },
+  {
+    "_id": "16",
+    "date": "09/01/2021 09:36 AM",
+    "category": "Health",
+    "type": "Expenses",
+    "quantity": 60,
+    "description": "I bought some medicine"
+  },
+  {
+    "_id": "17",
+    "date": "09/05/2021 09:36 AM",
+    "category": "Sport",
+    "type": "Expenses",
+    "quantity": 45,
+    "description": "I bought subscription to Gym"
+  },
+  {
+    "_id": "18",
+    "date": "07/04/2021 09:36 AM",
+    "category": "Salary",
+    "type": "Income",
+    "quantity": 160,
+    "description": "My second salary"
+  },
+  {
+    "_id": "19",
+    "date": "09/10/2021 03:47 PM",
+    "category": "Sell",
+    "type": "Income",
+    "quantity": 150,
+    "description": "I sold my mac"
+  },
+  {
+    "_id": "20",
+    "date": "08/08/2021 03:47 PM",
+    "category": "Enterprise",
+    "type": "Expenses",
+    "quantity": 500,
+    "description": "I bought stocks of our company"
+  }
+]
