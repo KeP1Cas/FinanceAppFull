@@ -8,7 +8,10 @@ import { IDataModel } from "stores/OperationsStore";
 
 const fetchClient = () => {
   const defaultOptions = {
-    baseURL: "https://finance-backend.onrender.com/api/",
+    baseURL: "https://finance-app-backend-a1o9.onrender.com",
+    headers: {
+      "Content-Type": "application/json",
+    },
   };
 
   // Create instance
@@ -73,7 +76,7 @@ export const transactionsAPI = {
 
   deleteTransaction(transaction: IDataModel) {
     return fetchClient()
-      .patch(`transactions?id=${transaction._id}`)
+      .delete(`transactions?id=${transaction._id}`)
       .then(response => response.data);
   },
 };

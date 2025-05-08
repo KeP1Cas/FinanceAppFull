@@ -40,7 +40,7 @@ const categories = [
 ];
 
 const DataModel = types.model("DataModel", {
-  _userId: types.string,
+  _userId: types.maybe(types.string),
   _id: types.identifier,
   date: types.string,
   category: types.string,

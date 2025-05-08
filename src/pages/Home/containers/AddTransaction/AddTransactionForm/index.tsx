@@ -52,6 +52,7 @@ const AddTransactionForm: React.FC<Props> = observer(
         title={title}
         onCloseComplete={onCloseComplete}
         hasFooter={false}
+        shouldCloseOnOverlayClick={false}
         onOpenComplete={() => {
           reset({
             quantity: null,
